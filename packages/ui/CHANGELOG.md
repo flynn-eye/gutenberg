@@ -19,6 +19,7 @@
 
 ### Bug Fixes
 
+-   `Combobox`, `SearchableSelect`, and `SearchableSelectControl`: Inset option highlights to align with the popup search field ([#84935](https://github.com/WordPress/gutenberg/pull/84935)).
 -   `ControlWithError`: Fix dropped keystrokes under React 19 caused by a state update after every render ([#85479](https://github.com/WordPress/gutenberg/pull/85479)).
 -   `Menu`: Show a focus ring on highlighted disabled items ([#85488](https://github.com/WordPress/gutenberg/pull/85488)).
 
